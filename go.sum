@@ -1,0 +1,4 @@
+github.com/jfbus/mp4 v0.0.0-20150401112544-b5bc0819ce33 h1:kILV+1cj3LR7DXER9dpNaVE1HgZeFl8hSAwGo7qxfOg=
+github.com/jfbus/mp4 v0.0.0-20150401112544-b5bc0819ce33/go.mod h1:ZwFibYMKdoDBbujz3YfW9u/HUB41VuUfRZwiVKHp19c=
+github.com/xlab/portaudio-go v0.0.0-20170905165025-132d041879db h1:sSIQlvfIWUHLDhEWUL2K2CeYv9CDksC00VxuxPUe4lw=
+github.com/xlab/portaudio-go v0.0.0-20170905165025-132d041879db/go.mod h1:r57mRacDQMS6Fz8ubv1nE8zZ0DbQ/sY0NkCmdxeUXmY=
